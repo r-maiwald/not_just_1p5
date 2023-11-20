@@ -17,7 +17,7 @@ Global temperature trend monitor
 The poster was created using [Inkscape](https://inkscape.org/). The design is inspired by the example little pictures in the [Gallery](https://climate.esa.int/en/little-pictures-gallery/) of the competition.
 
 ## Accessibility
-The poster was tested for accessibility using the online tool [Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/) and version to simulate the perception of the design with color blindness are available in the folder `accessibility/`.
+The poster was tested for accessibility using the online tool [Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/) and version to simulate the perception of the design with color blindness are available in the folder `accessibility_test/`.
 
 ## Sources
 - Inspiration for the code: https://cds.climate.copernicus.eu/cdsapp#!/software/app-c3s-global-temperature-trend-monitor?tab=app
